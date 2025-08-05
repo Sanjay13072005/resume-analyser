@@ -1,0 +1,12 @@
+{
+  "Data Scientist": "Expert in data analysis, machine learning, statistical modeling, Python, Pandas, and SQL.",
+  "Web Developer": "Experienced in HTML, CSS, JavaScript, front-end and back-end development, and responsive design.",
+  "Front end Developer": "Experienced in HTML, CSS, JavaScript, front-end and back-end development, and responsive design.",
+  "DevOps Engineer": "Skilled in CI/CD, Docker, Kubernetes, AWS, Terraform, and system automation.",
+  "AI/ML Engineer": "Hands-on with deep learning, computer vision, TensorFlow, PyTorch, and model optimization.",
+  "Business Analyst": "Proficient in Excel, Power BI, requirement gathering, stakeholder communication, and SQL.",
+  "Android Developer": "Builds apps using Java, Kotlin, Android SDK, UI design, and mobile architecture.",
+  "Full Stack Developer": "Works with React, Node.js, databases, REST APIs, and full-cycle application development.",
+  "Cloud Engineer": "Knowledge of Azure, GCP, AWS, cloud deployments, containers, and networking.",
+  "Cybersecurity Analyst": "Understands security audits, vulnerability testing, SIEM tools, and incident response."
+}

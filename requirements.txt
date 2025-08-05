@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+sentence-transformers
+scikit-learn
+fpdf
+openai
+python-dotenv
